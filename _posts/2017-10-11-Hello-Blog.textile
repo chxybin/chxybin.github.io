@@ -1,0 +1,8 @@
+---
+layout: post
+title: Hello Blog
+categories: [informative]
+---
+Hello, my new blog.
+
+from CCNU
