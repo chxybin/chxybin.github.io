@@ -4,7 +4,7 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Introvert Geek Diaries ~ Ankan Biswas on the internet</title>
+ <title>Keep Curious ~ chxybin on the internet</title>
  <link href="{{ site.BASE_PATH }}talk2ankan.xml" rel="self"/>
  <link href="{{ site.BASE_PATH }}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
