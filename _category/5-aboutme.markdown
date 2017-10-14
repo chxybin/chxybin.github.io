@@ -1,5 +1,5 @@
 ---
 title: About Me
 short-description: Things that brings Me to Life
-permalink: about me
+permalink: aboutme
 ---
