@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Code {web} | Code that Might be Useful to Web Developer
+title: About Me | Things that brings Me to Life
 ---
 
-<h1>Code {web}</h1>
+<h1>About Me</h1>
 <hr/>
-
 {% for category in site.categories %}
-{% if category[0] == "web" %}
+{% if category[0] == "aboutme" %}
     {% for posts in category %}
     {% for post in posts %}
 {% if post.title %}

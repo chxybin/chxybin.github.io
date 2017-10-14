@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Life {me} | Things that brings Me to Life
+title: Code | Code that Might be Useful to Developer
 ---
 
-<h1>Life {me}</h1>
+<h1>Code</h1>
 <hr/>
+
 {% for category in site.categories %}
-{% if category[0] == "me" %}
+{% if category[0] == "code" %}
     {% for posts in category %}
     {% for post in posts %}
 {% if post.title %}
@@ -22,5 +23,5 @@ title: Life {me} | Things that brings Me to Life
 {% endif %}
    {% endfor %}
    {% endfor %}
-{% endif %}
+{% endif %}s
 {% endfor %}
