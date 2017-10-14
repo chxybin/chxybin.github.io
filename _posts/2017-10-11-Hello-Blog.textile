@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello Blog
-categories: [informative]
+categories: [informations, aboutme]
 ---
 Hello, my new blog.
 
